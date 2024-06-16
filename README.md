@@ -1,2 +1,4 @@
 # design
-I am practicing to create website layout design using html and css . 
+I am practicing creating website layout design using HTML and CSS . 
+I used features like grid ,shadows , font-family etc.
+
